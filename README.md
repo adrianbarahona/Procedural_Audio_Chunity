@@ -28,6 +28,6 @@ After importing everything the project should run without problems. However, **t
 
 ![Alt text](images/mixerChunity.png)
 
-2. Comment out the following line (491) in ChuckSubInstance.cs (found in Assets/Chunity/Scripts). This bypass the default routing and allow to output each model different channels.
+2. Comment out the following line (491) in ChuckSubInstance.cs (found in Assets/Chunity/Scripts). This bypass the default routing and allow to output each model to different channels.
 
 ![Alt text](images/chuckSubinstance.png)
