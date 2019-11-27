@@ -4,7 +4,7 @@
 
 [Chunity](https://ccrma.stanford.edu/~lja/220c/chunity/) is a plugin for using the [ChucK](https://chuck.cs.princeton.edu/) programming language in the [Unity](https://unity.com/) game engine. This repository contains several procedural audio models of sound effects made in ChucK and implemented in Unity via Chunity.
 
-**Video of the demo:**
+**Video of the demo**
 [![alt text](images/screenshot.jpg)](https://www.youtube.com/watch?v=1q5gbQq7CUw)
 
 
